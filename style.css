@@ -1,0 +1,36 @@
+/*body styling here*/
+body {
+    text-align: center;
+    background-color: hsl(212, 45%, 89%);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 150px;
+}
+/*container styling start*/
+.container {
+    background-color: #fff;
+    padding: 25px;
+    width: 250px;
+    border-radius: 15px;
+    text-align: center;
+}
+/*Qr-code styling*/
+img {
+    border-radius: 15px;
+    width: 100%;
+}
+/*Header styling*/
+h3 {
+    color: hsl(218, 44%, 22%);
+    font-family: [Outfit](https://fonts.google.com/specimen/Outfit);
+    font-weight: 700px;
+}
+/*p styling*/
+p {
+    font-weight: 400px;
+    font-family: [Outfit](https://fonts.google.com/specimen/Outfit);
+    color: hsl(220, 15%, 55%);
+    font-size: 15px;
+}
